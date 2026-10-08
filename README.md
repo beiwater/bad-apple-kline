@@ -71,3 +71,9 @@ python3 candlechart.py some_frame.png out.png 72
 - 视觉参考：The New Yorker, *The Pied Piper of SPACs* 题图
 
 本仓库只包含渲染代码。原片、原曲及其衍生的音视频版权归原作者所有。
+
+## 许可
+
+代码以 [GPL-3.0](LICENSE) 发布：可以自由使用、修改和分发，但分发修改后的版本时也必须以 GPL-3.0 开源。
+
+GPL-3.0 只适用于代码。`docs/` 里的封面和示例图由原版 PV 画面渲染而来，属于衍生作品，不在本许可范围内，版权归原作者所有。
