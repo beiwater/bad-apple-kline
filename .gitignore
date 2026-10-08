@@ -1,0 +1,8 @@
+# 原片、原曲、节拍数据和渲染输出都不进仓库
+/src
+/out
+*.mp4
+*.m4a
+*.npz
+__pycache__/
+.DS_Store
